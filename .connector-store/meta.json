@@ -1,0 +1,13 @@
+{
+    "name": "Sendloop",
+    "owner": "WSO2",
+    "category": "Sales and Marketing",
+    "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Sendloop+Connector",
+    "description": "The Sendloop connector allows you to access the Sendloop REST API through WSO2 ESB. Sendloop is the easiest to use e-mail marketing service for small businesses. With the exceptional and personal customer service, they provide an e-mail delivery platform to more than 20,000 customers in over 100 countries at the moment.",
+    "status": "Active",
+    "labels": [
+        "Sales",
+        "Marketing"
+    ],
+    "releases": []
+}
