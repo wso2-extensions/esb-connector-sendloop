@@ -9,5 +9,13 @@
         "Sales",
         "Marketing"
     ],
-    "releases": []
+    "releases": [
+        {
+            "tagName": "1.0.0",
+            "products": [
+                "ESB 5.0.0",
+                "ESB 4.9.0"
+            ]
+        }
+    ]
 }
